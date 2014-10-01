@@ -31,8 +31,7 @@ var sortByKeyReverse = function(arr, key) {
 					 0;
 	});
 };
-
-// ing interpolation. 
+ 
 if (!String.prototype.supplant) {
   String.prototype.supplant = function (o) {
     return this.replace(
