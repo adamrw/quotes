@@ -24,7 +24,8 @@ li .quote {
 }
 
 #addQuoteButton {
-	box-shadow: 10px 5px 5px
+	box-shadow: 10px 5px 5px;
+	background-color: #490FC1;
 }
 
 .quote-text {
