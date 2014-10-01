@@ -7,8 +7,24 @@ li .quote {
 	margin-bottom: 4em;
 }
 
-.random-quote-button {
-	box-shadow: 10px;
+#random-quote-button {
+	box-shadow: 10px 5px 5px;
+}
+
+/*.form-group {
+	box-shadow: 10px 5px 5px
+}*/
+
+#inputAuthor {
+	box-shadow: 10px 5px 5px
+}
+
+#inputQuote{
+	box-shadow: 10px 5px 5px
+}
+
+#addQuoteButton {
+	box-shadow: 10px 5px 5px
 }
 
 .quote-text {
